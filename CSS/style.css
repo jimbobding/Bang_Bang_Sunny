@@ -3,4 +3,28 @@
     margin: 0;
 }
 
-body {}
+
+/*---Navbar---*/
+.navbar {
+    background-color: black;
+}
+
+
+/*---Hero Img Section---*/
+.hero-img {
+    width: 100vw;
+    object-fit: cover;
+}
+
+.container-hero {
+    padding: 0;
+    height: 100vh;
+}
+
+h2 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
